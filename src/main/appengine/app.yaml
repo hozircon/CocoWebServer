@@ -1,0 +1,8 @@
+#google cloud app engine deployment file
+runtime: java11
+instance_class: F1
+
+handlers:
+  - url: /
+    static_dir: src/main/resources/static
+    upload: src/main/resources/static
