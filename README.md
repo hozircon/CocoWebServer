@@ -12,7 +12,7 @@
 
 此專案主要透過Phaser.js與SpringBoot API Server所建立的粉絲紀念網站，並且部屬在Google Cloud 的 app engine上，資料儲存採用Google Cloud SQL中的Mysql資料庫。 (網站因免費用量於2022/6/24使用完畢而下架)
 
-![image] (https://github.com/hozircon/CocoWebServer/blob/master/%E7%B6%B2%E9%A0%81%E9%A0%90%E8%A6%BD.png)
+![GITHUB] (https://github.com/hozircon/CocoWebServer/blob/master/%E7%B6%B2%E9%A0%81%E9%A0%90%E8%A6%BD.png)
 
 網站頁面包含
 
@@ -23,12 +23,12 @@
 
 ## 系統架構
 
-![image] (系統架構圖url)
+![GITHUB] (https://github.com/hozircon/CocoWebServer/blob/master/%E7%B3%BB%E7%B5%B1%E6%9E%B6%E6%A7%8B%E5%9C%96.png)
 
 ### 前端
-![image] (https://github.com/hozircon/CocoWebServer/blob/master/front-end.png)
+![GITHUB] (https://github.com/hozircon/CocoWebServer/blob/master/front-end.png)
 ### 後端
-![image] (https://github.com/hozircon/CocoWebServer/blob/master/back-end.png)
+![GITHUB] (https://github.com/hozircon/CocoWebServer/blob/master/back-end.png)
 ### API說明文件
 
 
