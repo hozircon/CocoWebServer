@@ -40,7 +40,7 @@
 | 新增一筆玩家遊戲時間 | POST | /insertPlayerTableTime | "playSurvivalTime" : 遊戲時間|
 | 新增一筆玩家遊戲排行紀錄 | POST | /InsertRankingTable | "name" : 玩家暱稱 , "gameTime" : 遊戲時間 |
 
-## 程式架構
+## File List
 
 ### 後端主要部分
 
