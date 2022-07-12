@@ -13,8 +13,11 @@
 此專案主要透過Phaser.js與SpringBoot API Server所建立的粉絲紀念網站，並且部屬在Google Cloud 的 app engine上，資料儲存採用Google Cloud SQL中的Mysql資料庫。 (網站因免費用量於2022/6/24使用完畢而下架)
 
 ![GITHUB](https://github.com/hozircon/CocoWebServer/blob/master/%E7%B6%B2%E9%A0%81%E9%A0%90%E8%A6%BD.jpg)
+
 玩家實際遊玩畫面
-https://github.com/hozircon/CocoWebServer/blob/master/%E9%81%8A%E7%8E%A9%E5%BD%B1%E7%89%87.mp4
+
+https://www.youtube.com/watch?v=Y97BRqfjQb8&t=2s
+
 網站頁面包含
 
 + 回歸時間倒數器
