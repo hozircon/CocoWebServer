@@ -14,7 +14,7 @@
 
 ![GITHUB](https://github.com/hozircon/CocoWebServer/blob/master/%E7%B6%B2%E9%A0%81%E9%A0%90%E8%A6%BD.jpg)
 玩家實際遊玩畫面
-
+https://github.com/hozircon/CocoWebServer/blob/master/%E9%81%8A%E7%8E%A9%E5%BD%B1%E7%89%87.mp4
 網站頁面包含
 
 + 回歸時間倒數器
